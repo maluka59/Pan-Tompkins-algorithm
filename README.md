@@ -8,3 +8,5 @@ Um den QRS-Komplex zu identifizieren, wird eine adaptive Schwellenwertmethode an
 Der Pan-Tompkins-Algorithmus zeichnet sich durch seine Robustheit gegenüber Störungen und seine Fähigkeit aus, R-Wellen zuverlässig zu erkennen, selbst bei schwierigen EKG-Signalen mit niedriger Qualität. Er wird häufig in EKG-Analysegeräten und medizinischen Überwachungssystemen eingesetzt, um eine schnelle und genaue Detektion von Herzaktivitäten zu ermöglichen.
 
 Dank seiner einfachen Implementierung und guten Ergebnissen hat sich der Pan-Tompkins-Algorithmus als Standardmethode zur QRS-Komplex-Detektion etabliert und ist ein wichtiges Werkzeug für die Diagnose und Überwachung von Herzkrankheiten geworden.
+
+##Ausgabe des eingegebnen Signals 
